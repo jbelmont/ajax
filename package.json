@@ -1,0 +1,36 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "A small library that handles simple crud actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc tape test/*.js",
+    "coveralls": "cat ./coverage/lcov.info | coveralls"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbelmont/ajax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbelmont/ajax/issues"
+  },
+  "homepage": "https://github.com/jbelmont/ajax#readme",
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "nyc": "^11.2.1",
+    "sinon": "^3.2.1",
+    "tape": "^4.8.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}
