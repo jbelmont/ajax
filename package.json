@@ -1,5 +1,5 @@
 {
-  "name": "ajax",
+  "name": "tinyajax",
   "version": "1.0.0",
   "description": "A small library that handles simple crud actions",
   "main": "index.js",
