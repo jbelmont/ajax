@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/jbelmont/ajax.svg?branch=master)](https://travis-ci.org/jbelmont/ajax)
+[![Coverage Status](https://coveralls.io/repos/github/jbelmont/ajax/badge.svg?branch=master)](https://coveralls.io/github/jbelmont/ajax?branch=master)
+
 # ajax
 
 A small library that handles simple crud actions
