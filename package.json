@@ -2,7 +2,7 @@
   "name": "ajaxmicro",
   "version": "1.0.0",
   "description": "A small library that handles simple crud actions",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "nyc tape test/*.js",
     "coveralls": "cat ./coverage/lcov.info | coveralls"
