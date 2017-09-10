@@ -1,6 +1,6 @@
 {
   "name": "ajaxmicro",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A small library that handles simple crud actions",
   "main": "dist/ajax.js",
   "scripts": {
