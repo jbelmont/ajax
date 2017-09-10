@@ -10,7 +10,8 @@
     "coveralls": "cat ./coverage/lcov.info | coveralls"
   },
   "files": [
-    "src"
+    "src",
+    "dist/ajax.js"
   ],
   "repository": {
     "type": "git",
